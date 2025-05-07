@@ -1,0 +1,4 @@
+GeoJSON dataset containing geometry information for all counties in the United States.
+Data available from Plotly under the MIT license https://github.com/plotly/datasets/blob/master/geojson-counties-fips.json.
+MIT License Copyright (c) 2019-2024 Plotly Technologies Inc. Notice for the rights to use this data: 
+      https://github.com/plotly/datasets/tree/master?tab=MIT-1-ov-file#readme
