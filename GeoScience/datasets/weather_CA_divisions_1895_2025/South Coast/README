@@ -1,0 +1,5 @@
+Monthly precipitation and temperatures from 1895 to 2025 for California South Coast.
+
+Temperature is in tenths of deg. Fahrenheit. ie. -35 = -3.5 F, 557 = 55.7 F
+Precipitation is in hundredths of an inch. ie. 45 = 0.45", 257 = 2.57"
+Data from https://calclim.dri.edu/pages/tools.html. Follow the US Divisional Climate Data link (https://wrcc.dri.edu/spi/divplot2map.html)
