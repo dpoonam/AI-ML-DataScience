@@ -1,0 +1,5 @@
+- US climate divisions dataset available at https://psl.noaa.gov/data/usclimdivs/boundaries.html.
+- This shapefile contains geometry information for each climate division in the United States.
+- There is one record for each division with following information that is relevant to projects in this repository:
+    - The geometry info is a polygon or a multipolygon of latitudes and longitudes marking the corresponding divisions's perimeter.
+This is a public dataset available at the above mentioned NOAA website.
