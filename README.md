@@ -1,1 +1,1 @@
-# DataScience
+Welcome to the AI/ML Projects repository! This collection features applied data science and machine learning notebooks. The GeoScience contains notebooks for projects focused on geospatial and environmental data, including topics like temperature forecasting, wildfire analysis.
