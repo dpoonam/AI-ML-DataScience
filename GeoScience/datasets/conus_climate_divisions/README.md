@@ -2,4 +2,5 @@
 - This shapefile contains geometry information for each climate division in the United States.
 - There is one record for each division with following information that is relevant to projects in this repository:
     - The geometry info is a polygon or a multipolygon of latitudes and longitudes marking the corresponding divisions's perimeter.
-This is a public dataset available at the above mentioned NOAA website.
+- This is a public dataset available at the above mentioned NOAA website.
+- More information on the US climate divisions is available at https://www.ncei.noaa.gov/access/monitoring/reference-maps/conus-climate-divisions.
