@@ -1,4 +1,4 @@
-Jupyter Notebooks for various Geospatial and Geosciences projects.
+Jupyter Notebooks for various Geoscience and Geospatial projects.
 
 - [Time Series Forecast of California Monthly Average Termperatures](https://github.com/dpoonam/AI-ML-DataScience/blob/main/GeoScience/notebooks/Time_Series_Forecasting_California_Temperature.ipynb)
 - [Spatial, Temporal Analysis and Statistical Modeling of California Wildfires](https://github.com/dpoonam/AI-ML-DataScience/blob/main/GeoScience/notebooks/California_Wildfire_Analysis.ipynb)
